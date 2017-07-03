@@ -1,4 +1,4 @@
-FROM docker:17.04.0-dind
+FROM docker:17.06.0-dind
 
 ENV DOCKER_COMPOSE_VERSION 1.12.0
 
